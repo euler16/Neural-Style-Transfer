@@ -1,9 +1,9 @@
-# Implementation of "A Neural Algorithm of Artistic Style" #
+	# Implementation of "A Neural Algorithm of Artistic Style" #
 
 Results:
 
-<img src="output/100.png" width="300px" height="200px" />
-<img src="output/macau/4900." width="300px" height="200px" />
+<img src="output/4900.png" width="300px" height="200px" />
+<img src="output/NSIT/100.png" width="300px" height="200px" />
 
 Using the StarryNight:
 
