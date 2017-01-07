@@ -1,4 +1,4 @@
-	# Implementation of "A Neural Algorithm of Artistic Style" #
+	## Implementation of "A Neural Algorithm of Artistic Style"
 
 Results:
 
